@@ -4,7 +4,7 @@
 		"city_name": "Surabaya",
 		"country_id": "62",
 		"country_name": "Indonesia",
-		"highestTemp": "40.3",
-		"lowestTemp": "30.3"
+		"highest_temp": "40.3",
+		"lowest_temp": "30.3"
 	}
 }
